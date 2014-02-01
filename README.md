@@ -1,4 +1,4 @@
 MyRepo
 ======
 
-My test repository
+My test repository ...
